@@ -1,0 +1,6 @@
+    On the first graph, you can see the ratio of visits to the site and income by region, draw conclusions by regions
+with poor conversion and optimize advertising, PR, etc.
+    In the second graph, we see that mobile brings little income per visitors, so you need to go deeper and explore
+this at the level of cross-channel sequences.
+    On graph 3, we see that the situation in terms of visits and income + is the same, but almost all traffic is referral,
+therefore it is necessary to increase the sample and if the situation does not change, then to increase brand awareness.
